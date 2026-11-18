@@ -6,6 +6,6 @@ int main() {
             sum = sum + i;
             i++;
     }
-    cout << "Sum of odd numbers 1 to 50 = " << sum;
+    cout << "Sum of even numbers 1 to 50 = " << sum;
     return 0;
 }
